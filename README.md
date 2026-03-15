@@ -1,6 +1,6 @@
   <img align="right" alt="Well-GIF" src="https://cdn.discordapp.com/attachments/871887126491443212/1482800631751250140/output-onlinegiftools_2.gif?ex=69b84533&is=69b6f3b3&hm=b39a5aa17607dc2d9fdfe16c254ab9a0d2bf778ae2fa02f687cbfbbdf4cf6a14&" >
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D79E0&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<a href="https://github.com/WellingtonLima37"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D79E0&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a>
 
 ## 👨‍💻Oie eu sou o Wellington Lima
 
