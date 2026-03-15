@@ -1,38 +1,65 @@
+  <img align="right" alt="Well-GIF" src="https://cdn.discordapp.com/attachments/871887126491443212/1482800631751250140/output-onlinegiftools_2.gif?ex=69b84533&is=69b6f3b3&hm=b39a5aa17607dc2d9fdfe16c254ab9a0d2bf778ae2fa02f687cbfbbdf4cf6a14&" >
+  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D79E0&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a>
 
-## 👨‍💻Oie eu sou o Wellington Lima, estudante e entusiasta de programação e tecnologia!
+## 👨‍💻Oie eu sou o Wellington Lima
+
+Estudante de Ciência da Computação na Faculdade Descomplica, atualmente no 7º semestre. Em paralelo, estou me especializando em desenvolvimento Full Stack pela Danki Code.
+Tenho grande interesse na área de tecnologia e desenvolvimento de software, buscando constantemente aprimorar meus conhecimentos por meio de estudos e projetos práticos. Ainda não atuo profissionalmente na área, mas estou em busca da minha primeira oportunidade para aplicar na prática as habilidades que venho desenvolvendo.
+    
+##
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">My Stack</h3>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
+</div>
+
+ <h3 align="left">Contact with me</h3>
+ 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:wellington.candido.lima37@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/wellingtonlima37/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=2D79E0&color:FFF)](https://www.instagram.com/uelitu37/)
+
+##
+
+<div style="text-align: left;" align="lfet">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  
   <a href="https://github.com/WellingtonLima37">
   <img height="125px" src="https://github-readme-stats.vercel.app/api?username=WellingtonLima37&show_icons=true&theme=transparent"/>
   <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonLima37&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Well-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Well-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Well-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Well-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Well-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Well-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Well-GIF" src="https://cdn.discordapp.com/attachments/871887126491443212/1482800631751250140/output-onlinegiftools_2.gif?ex=69b84533&is=69b6f3b3&hm=b39a5aa17607dc2d9fdfe16c254ab9a0d2bf778ae2fa02f687cbfbbdf4cf6a14&" >
-</div>
+##
 
-  ##
-  
-  <div>
-    <a href="https://api.whatsapp.com/send?phone=5512996139924" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/uelitu.37/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.facebook.com/wellington.candido.lima/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-    <a href = "mailto:wellington.candido.lima37@@devuel.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/wellingtonlima37/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
   
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WellingtonLima37/WellingtonLima37/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WellingtonLima37/WellingtonLima37/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WellingtonLima37/WellingtonLima37/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
